@@ -1,1 +1,2 @@
-# Python_Note
+# 个人学习Python的笔记
+# 共同交流学习
